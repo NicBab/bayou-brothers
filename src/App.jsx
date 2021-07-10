@@ -1,7 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import Header from './components/Header'
-import Footer from './components/Footer'
+import { Footer, Header } from './components/index'
 import { Home, AboutUs, Gallery } from './pages/index'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
