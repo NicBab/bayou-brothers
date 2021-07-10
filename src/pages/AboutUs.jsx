@@ -4,7 +4,7 @@ import React from 'react'
     return (
         <>
             <div>AboutUs</div>
-            <div>Here at Bayou Bros</div>
+           
         </>
     )
  }

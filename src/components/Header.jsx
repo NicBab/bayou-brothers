@@ -4,7 +4,7 @@ import { Nav } from 'react-bootstrap'
 
 const Header = () => {
     return (
-      <Nav
+      <Nav className="d-flex, align-items-center justify-content-center" 
          activeKey="/home"
          onSelect={(selectedKey) => alert(`selected ${selectedKey}`)}>
         <Nav.Item>
