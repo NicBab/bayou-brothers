@@ -27,6 +27,10 @@ const Header = () => {
         <Nav.Item>
           <Nav.Link><Link to="/events">Events</Link></Nav.Link>
         </Nav.Item>
+
+        <Nav.Item>
+          <Nav.Link><Link to="/contact_us">Contact Us</Link></Nav.Link>
+        </Nav.Item>
       </Nav>
       </>
     )

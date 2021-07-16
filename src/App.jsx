@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { Home, AboutUs, Gallery, Events, ContactUs } from './pages/index'
 import { Footer, Header } from './components/index'
-import { Home, AboutUs, Gallery, Events } from './pages/index'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
           <Route path="/about-us" component={AboutUs} />
           <Route path="/gallery" component={Gallery} />
           <Route path="/events" component={Events} />
+          <Route path="/contact_us" component={ContactUs} />
         </Switch>
       <Footer />
     </Router>
