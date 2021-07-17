@@ -4,9 +4,9 @@ import './css/Footer.css'
 
 const Footer = () => {
     return (
-          <Container className="footer m-auto">
+          <div className="footer m-auto">
             <h5>@2021 BAYOU_BROTHERS </h5>   
-        </Container>
+        </div>
     )
 }
 
