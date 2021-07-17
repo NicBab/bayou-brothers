@@ -1,10 +1,9 @@
 import React from 'react'
+import './css/ContactUs.css'
 
 const ContactUs = () => {
     return (
-        <div>
-            Contact Us
-        </div>
+        <div className="contact" style={{textAlign: 'center'}}>Contact Us</div>
     )
 }
 

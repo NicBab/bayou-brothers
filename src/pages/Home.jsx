@@ -1,8 +1,11 @@
 import React from 'react'
+import './css/Home.css'
 
 const Home = () => {
     return (
-        <div>Home Page</div>
+        <>
+            <div className="main" style={{textAlign: "center"}}>Home Page</div>
+        </>
     )
 }
 

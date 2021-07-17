@@ -5,8 +5,14 @@ import './css/Header.css'
 
 const Header = () => {
     return (
-     <>
-      <img src="/img/bayou-bros-logo.png" alt="logo"></img>
+      <>
+        <div className="d-flex, align-items-center justify-content-center">
+          <img 
+            src="/img/bayou-bros-logo.png" 
+            alt="logo">
+          </img>
+        </div>
+
         <Nav className="d-flex, align-items-center justify-content-center" 
           activeKey="/home">
           <Nav.Item>
