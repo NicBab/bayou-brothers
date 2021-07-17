@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import { Home, AboutUs, Gallery, Events, ContactUs } from './pages/index'
+import { Home, AboutUs, Events, ContactUs } from './pages/index'
 import { Footer, Header } from './components/index'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';

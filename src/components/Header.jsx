@@ -12,11 +12,10 @@ const Header = () => {
           <Nav.Item>
             <Nav.Link><Link to="/">Home</Link></Nav.Link>
            </Nav.Item>
-       
           <Nav.Item>
             <Nav.Link><Link to="/events">Events</Link></Nav.Link>
            </Nav.Item>
-           <Nav.Item>
+          <Nav.Item>
             <Nav.Link><Link to="/about-us">About Us</Link></Nav.Link>
            </Nav.Item>
           <Nav.Item>
