@@ -1,0 +1,10 @@
+.img {
+    background-color: rgb(219, 168, 13);
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(219, 168, 13);
+}

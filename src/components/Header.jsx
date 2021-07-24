@@ -7,7 +7,7 @@ import logo from '../images/bayou-bros-logo.png'
 const Header = () => {
     return (
       <>
-        <div className="d-flex align-items-center justify-content-center">
+        <div className="head">
           <img className="img" style={{height: "250px", width: "350px"}}
             src={logo} 
             alt="logo">

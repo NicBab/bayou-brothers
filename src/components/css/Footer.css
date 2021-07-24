@@ -1,7 +1,7 @@
 .footer {
     display: flex;
     flex-direction: row;
-    background-color: rgb(10, 9, 48);
+    background-color: rgb(150, 105, 43);
     color: white;
     padding: 1rem;
     justify-content: center;
@@ -9,7 +9,7 @@
   }
 
   h5 {
-    background-color:rgb(10, 9, 48);
+    background-color: rgb(150, 105, 43);
   }
   
   
