@@ -4,7 +4,7 @@ import './css/Home.css'
 const Home = () => {
     return (
         <>
-            <div className="main" style={{textAlign: "center"}}>Home Page</div>
+            <div className="main" style={{textAlign: "center"}}>Home</div>
         </>
     )
 }
