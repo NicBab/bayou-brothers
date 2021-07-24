@@ -8,7 +8,7 @@ const Header = () => {
     return (
       <>
         <div className="head">
-          <img className="img" style={{height: "250px", width: "350px"}}
+          <img className="img" style={{height: "275px", width: "350px"}}
             src={logo} 
             alt="logo">
           </img>
