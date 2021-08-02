@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { Nav } from 'react-bootstrap'
 import './css/Header.css'
-import logo from '../images/BB-color-title copy.png'
+import logo from '../images/BB-color-title.png'
 
 const Header = () => {
     return (

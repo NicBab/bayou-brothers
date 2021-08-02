@@ -1,0 +1,5 @@
+.backImg {
+    position: fixed;
+    opacity: 0.1;
+    z-index: 3;
+}
