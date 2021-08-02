@@ -13,7 +13,7 @@ const Cards = () => {
         <Card className="card">
          <Card.Img  src={stefanCrawfish} alt="stefan crawfish" />
           <Card.Body className="cardBody">
-           <Card.Title className="cardTitle">stefan crawfish</Card.Title>
+           <Card.Title className="cardTitle">Crawdaddy</Card.Title>
           </Card.Body>
          </Card>
  
