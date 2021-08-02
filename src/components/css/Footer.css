@@ -6,6 +6,8 @@
     padding: 1rem;
     justify-content: center;
     align-items: center;
+    margin: auto;
+    z-index: auto;
   }
 
   h5 {
