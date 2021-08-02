@@ -2,13 +2,13 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { Nav } from 'react-bootstrap'
 import './css/Header.css'
-import logo from '../images/bayou-bros-logo.png'
+import logo from '../images/BB-color-title copy.png'
 
 const Header = () => {
     return (
       <>
         <div className="head">
-          <img className="img" style={{height: "275px", width: "350px"}}
+          <img className="img" style={{height: "280px", width: "350px"}}
             src={logo} 
             alt="logo">
           </img>
