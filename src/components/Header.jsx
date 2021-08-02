@@ -17,16 +17,16 @@ const Header = () => {
         <Nav className="d-flex, align-items-center justify-content-center" 
           activeKey="/home">
           <Nav.Item>
-            <Nav.Link><Link to="/">Home</Link></Nav.Link>
+            <Nav.Link><Link to="/" className="ba-home">Home</Link></Nav.Link>
            </Nav.Item>
           <Nav.Item>
-            <Nav.Link><Link to="/events">Events</Link></Nav.Link>
+            <Nav.Link><Link to="/events" className="ba-events">Events</Link></Nav.Link>
            </Nav.Item>
           <Nav.Item>
-            <Nav.Link><Link to="/about-us">About Us</Link></Nav.Link>
+            <Nav.Link><Link to="/about-us" className="ba-about">About Us</Link></Nav.Link>
            </Nav.Item>
           <Nav.Item>
-            <Nav.Link><Link to="/contact_us">Contact Us</Link></Nav.Link>
+            <Nav.Link><Link to="/contact_us" className="ba-contact">Contact Us</Link></Nav.Link>
           </Nav.Item>
         </Nav>
       </>

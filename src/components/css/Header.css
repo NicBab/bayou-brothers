@@ -8,3 +8,19 @@
     justify-content: center;
     background-color: rgb(219, 168, 13);
 }
+
+.ba-home {
+    color: white;
+}.ba-home:hover { color: tan; text-decoration: none; }
+
+.ba-events {
+    color: white;
+}.ba-events:hover { color:  tan; text-decoration: none;}
+
+.ba-about {
+    color: white;
+}.ba-about:hover { color:  tan; text-decoration: none;}
+
+.ba-contact {
+    color: white;
+}.ba-contact:hover { color:  tan; text-decoration: none;}
