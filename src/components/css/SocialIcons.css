@@ -1,0 +1,13 @@
+.icons {
+    display: flex;
+}
+
+.instaIcon {
+    color: black;
+    cursor: pointer;
+   
+}
+
+.bi-instagram {
+    background-color: rgb(219, 168, 13);
+}
