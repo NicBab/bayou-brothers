@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { Nav } from 'react-bootstrap'
 import './css/Header.css'
 import logo from '../images/BB-color-title.png'
+import { SocialIcons } from '../components'
 
 const Header = () => {
     return (
