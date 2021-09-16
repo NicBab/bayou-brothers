@@ -9,10 +9,11 @@ const Header = () => {
     return (
       <>
         <div className="head">
-          <img className="img" style={{height: "280px", width: "350px"}}
+          <img className="img" style={{height: "300px", width: "350px"}}
             src={logo} 
             alt="logo">
           </img>
+          <SocialIcons />
         </div>
         
         <Nav className="d-flex, align-items-center justify-content-center" 

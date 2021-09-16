@@ -14,6 +14,7 @@ import charringPeppers from '../images/charring-peppers.jpg'
 import smokedAndouille from '../images/smoked-andouille.jpg'
 
 const Cards = () => {
+    
     return (
         <>
         <div className="imageContainer">

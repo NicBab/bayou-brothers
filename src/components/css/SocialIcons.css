@@ -5,9 +5,17 @@
 .instaIcon {
     color: black;
     cursor: pointer;
-   
+}
+
+.facebookIcon {
+    color: black;
+    cursor: pointer;
 }
 
 .bi-instagram {
+    background-color: rgb(219, 168, 13);
+}
+
+.bi-facebook {
     background-color: rgb(219, 168, 13);
 }
